@@ -1,5 +1,10 @@
-# heartrate-monitoring
-*ABSTRACT
+# Heartrate-monitoring
+
+
+ *ABSTRACT*
+
+
+
 This paper describes real-life applications for getting the heart rate of a person by getting the Beats Per Minute (BPM), ECG (electrocardiogram), and IBI (Inter-Beat Interval) of the person using Arduino. The Heart Rate Pulse Sensor Module, a key sensor, is included in the model. The changes in heart rate are monitored by the heart rate pulse sensor module. It keeps track of the BPM as the beats per minute. The heart rate sensor also depicts the person's ECG and IBI. The interval between heart beats is used to calculate the IBI. The heart pulse sensor modules are secured to the Arduino uno board and are analyzed by the Arduino IDE. The pulse sensor module measures the heart rate and outputs it to the serial plotter and processing development environment, which creates 2D drawings of the heart rate graphics. In order to obtain an accurate 500Hz pulse sensor signal and a high-quality BPM readout, Arduino employs a hardware time interrupt. The serial baud rate is set to 
 115200 to get a clear graph. 
  
