@@ -1,7 +1,7 @@
 # Heartrate-monitoring
 
 
-** *ABSTRACT***
+**ABSTRACT**
 
 
 
@@ -11,8 +11,7 @@ This paper describes real-life applications for getting the heart rate of a pers
  
 Keywords: Arduino, Heartbeat Sensors, Health Monitoring System. 
 
-**
-1	Introduction **
+**Introduction**
 
 
 
