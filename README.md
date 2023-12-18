@@ -1,7 +1,7 @@
 # Heartrate-monitoring
 
 
- *ABSTRACT*
+** *ABSTRACT***
 
 
 
@@ -10,7 +10,12 @@ This paper describes real-life applications for getting the heart rate of a pers
  
  
 Keywords: Arduino, Heartbeat Sensors, Health Monitoring System. 
-1	Introduction 
+
+**
+1	Introduction **
+
+
+
 As we can see, nowadays, about a thousand individuals pass away each month as a result of neglecting their health owing to excessive workloads. The Internet of Things is something we have decided to incorporate. We all know that IOT makes life easier, and our initiative will use it to benefit everyone.  
 Because of its cutting-edge technology, heart rate monitoring systems are one of the significant advancements in the worldwide healthcare program. Due to the high rate of heart attack deaths among hospitalized ill patients, this technological innovation is desperately needed. Heart disease, including heart attacks, coronary disease, congestive heart failure, and congenital heart disease, is the leading cause of death for both men and women globally.  
 This work provides the potential for continuous heart rate monitoring for persons who live alone and have no one to check on their condition. It was created to provide patients with prompt and appropriate heart health.  
